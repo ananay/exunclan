@@ -1,0 +1,27 @@
+body{
+	background:url("https://events.google.com/io2015/images/home/keynote2015@2x.jpg");
+	background-size:100%;
+}
+.header{
+	width:100%;
+	-webkit-box-shadow: inset 0px 158px 253px -173px rgba(0,0,0,1);
+	-moz-box-shadow: inset 0px 158px 253px -173px rgba(0,0,0,1);
+	box-shadow: inset 0px 158px 253px -173px rgba(0,0,0,1);
+}
+.header ul{
+	float: right;
+	margin-top: 20px;
+}
+.header ul li{
+	display: inline-block;
+	color:#fff;
+	font-size:12pt;
+	padding:10px;
+	color:#222;
+	text-transform: uppercase;
+	color:#fff;
+}
+.header_logo{
+	width: 150px;
+	margin-top:10px;
+}
