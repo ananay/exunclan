@@ -1,3 +1,14 @@
+::selection {
+    background:  transparent;
+}
+
+::-moz-selection {
+    background:  transparent;
+}
+
+::-webkit-selection {
+    background:  transparent;
+}
 *{
 	margin:0;
 	padding:0;
@@ -52,4 +63,11 @@ nav ul li a{
 	color:#333;
 	font-size:11pt;
 	text-transform: uppercase;
+}
+.twitter{
+   	position: fixed !important;
+ 	bottom: 73px;
+ 	right: 100px;
+ 	display: none;
+ 	padding:10px;
 }

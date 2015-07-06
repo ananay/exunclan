@@ -34,4 +34,10 @@ $(document).ready(function(){
 			scrollTop: $($element).offset().top
 		});
 	});
+	$(".fa-twitter").click(function(){
+		$(".twitter").fadeToggle();
+	});
+	$(".panel").click(function(){
+		$(".twitter").fadeOut();
+	});
 });
