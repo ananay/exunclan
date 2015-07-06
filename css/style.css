@@ -71,3 +71,22 @@ nav ul li a{
  	display: none;
  	padding:10px;
 }
+#about{
+	background: url(../img/school2.jpg);
+ 	background-size: 100% 120%;
+}
+#about p{
+	width: 80%;
+	text-align: justify;
+}
+#about .card{
+	width: 60%;
+  	padding-bottom: 50px;
+  	margin-top: 60px;
+}
+#home .card{
+	position: absolute;
+	top:200px;
+	width: 15%;
+	float: left;
+}
