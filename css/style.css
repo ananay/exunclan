@@ -85,8 +85,9 @@ nav ul li a{
   	margin-top: 60px;
 }
 #home .card{
-	position: absolute;
-	top:200px;
-	width: 15%;
-	float: left;
+	position: relative;
+ 	top: -488px;
+ 	width: 15%;
+  	float: left;
+  	margin-left: 170px;
 }
