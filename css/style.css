@@ -70,6 +70,7 @@ nav ul li a{
  	right: 100px;
  	display: none;
  	padding:10px;
+ 	z-index: +2000;
 }
 #about{
 	background: url(../img/school2.jpg);
@@ -83,11 +84,16 @@ nav ul li a{
 	width: 60%;
   	padding-bottom: 50px;
   	margin-top: 60px;
+  	background: rgba(255,255,255,0.93) !important;
 }
 #home .card{
 	position: relative;
- 	top: -488px;
- 	width: 15%;
+  	top: -515px;
+ 	width: 20%;
   	float: left;
   	margin-left: 170px;
+}
+#home .card .card-title{
+	color:#000;
+	padding:10px;
 }

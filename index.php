@@ -56,22 +56,12 @@
 	<div class="panel" id="home">
 		<canvas id="canvas" style='position:relative; z-index:-1;'>
 		</canvas>
-			<!-- <h1 class="welcome">Welcome</h1> -->
-			<div class="card">
-				<div class="card-image">
-					<img src="img/us.png">
-				</div>
+		<div class="card">
+			<div class="card-image">
+				<img src="img/U_S.png">
 			</div>
-			<div class="card">
-				<div class="card-image">
-					<img src="img/us.png">
-				</div>
-			</div>
-			<div class="card">
-				<div class="card-image">
-					<img src="img/us.png">
-				</div>
-			</div>
+			<span class="card-title">Underscore</span>
+		</div>
 	</div>
 	<div class="panel" id="about">
 		<div class="wrapper">
