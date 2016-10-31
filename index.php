@@ -70,7 +70,7 @@
 				
 				<h1>About</h1>
 				<br />
-				<p>Exun, the computer club at Delhi Public School, R K Puram, stands for “Experts Unlimited”. Our motto is “We not I” , which in essence means that we believe in team spirit. Exun was started in 1992 by the Head of Department, Computer Science, Mr. Mukesh Kumar and a small group of talented students. It is today a 50+ member organisation with its members standing out in various fields like computer programming, computer quizzing, web design & development, digital imaging, 3d design & animation, 2d animation,video and audio editing.
+				<p>Exun, the computer club at Delhi Public School, R K Puram, stands for “Experts Unlimited”. Our motto is “We, not I” , which in essence means that we believe in team spirit. Exun was started in 1992 by the Head of Department, Computer Science, Mr. Mukesh Kumar and a small group of talented students. It is today a 50+ member organisation with its members standing out in various fields like computer programming, computer quizzing, web design & development, digital imaging, 3d design & animation, 2d animation,video and audio editing.
 
 Exun members form an elite team of computer enthusiasts of all ages. They have represented the school in various computer symposia in India and around the world. They have been actively involved in activities like web page designing, software development and attending inter-school competitions. They have won several awards at various symposiums, excelling in nearly all of them and securing top positions.</p>
 			</div>
